@@ -1,0 +1,14 @@
+{
+  "name": "youtube-backend-project",
+  "version": "1.0.0",
+  "description": "a backennd in express for video stream platfrom.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "nikhil hade",
+  "license": "ISC"
+}
